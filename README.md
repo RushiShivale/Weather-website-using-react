@@ -3,7 +3,7 @@
 A simple, responsive weather application built using **React** and **Material UI**, powered by the **OpenWeatherMap API**. Users can search for current weather information by city name.
 
 ## 🚀 Live Demo
-[Add your live demo link here, e.g. Vercel/Netlify](#)
+(https://weather-website-using-react.vercel.app/)
 
 ## 📸 Screenshots
 
