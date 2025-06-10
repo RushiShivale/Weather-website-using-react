@@ -11,6 +11,8 @@ A simple, responsive weather application built using **React** and **Material UI
 
 ![Screenshot 2025-06-10 234150](https://github.com/user-attachments/assets/c3af11fd-fdfe-4e13-9f66-57942e31268a)
 
+![Screenshot 2025-06-10 234134](https://github.com/user-attachments/assets/16812d7b-8778-4f3f-8f87-69a06ca89ec5)
+
 
 ---
 
