@@ -7,7 +7,10 @@ A simple, responsive weather application built using **React** and **Material UI
 
 ## 📸 Screenshots
 
-> _Include one or two screenshots here if possible to show the UI._
+
+
+![Screenshot 2025-06-10 234150](https://github.com/user-attachments/assets/c3af11fd-fdfe-4e13-9f66-57942e31268a)
+
 
 ---
 
