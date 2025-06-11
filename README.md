@@ -41,5 +41,5 @@ A simple, responsive weather application built using **React** and **Material UI
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/RushiShivale/weather-app.git
 cd weather-app
